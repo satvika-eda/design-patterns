@@ -47,7 +47,7 @@ When objects are expensive to create and variants share most of their config, cl
 
 → [prototype/README.md](prototype/README.md)
 
----
+--- 
 
 ## Anti-patterns and misuse
 
